@@ -1,2 +1,2 @@
-# inc-scss-template
-inc-scss-template
+# project-template
+project-template
